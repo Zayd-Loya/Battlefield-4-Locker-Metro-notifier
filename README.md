@@ -7,8 +7,8 @@ Add the Battlelog link to the server page for the server that you want checked t
 
 -------------------
 
-``pip install requests``
+``pip3 install requests``
 
-``pip install beautifulsoup4``
+``pip3 install beautifulsoup4``
 
 ``pip install plyer``
