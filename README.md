@@ -4,11 +4,16 @@ Scraper that checks if a select set of servers are currently on Operation Locker
 Add the Battlelog link to the server page for the server that you want checked to `servers.txt`. Then, just run `mapNotifier.py`
 
 ### Requirements
+___
 
--------------------
+```bash
+pip install requests
+```
 
-``pip install requests``
+```bash
+pip install beautifulsoup4
+```
 
-``pip install beautifulsoup4``
-
-``pip install plyer``
+```bash
+pip install plyer
+```
